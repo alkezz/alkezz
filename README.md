@@ -2,7 +2,7 @@
 
 Software Engineering and computers in general have always been a huge part of my life. Growing up, my cousins and I would pretty much game all night on your PC's and that carried on throughout my life. Even when we would visit our family in Lebanon we would find time to go to an internet cafe and game for hours. Naturally this led to branching out and eventually finding a passion in software development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkezz&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkezz&count_private=true&show_icons=true&theme=midnight-purple)
 
 ## Languages/Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,3 +26,14 @@ Software Engineering and computers in general have always been a huge part of my
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+----------------------------
+Check out my Spotify Clone!
+
+[Bopify-A Spotify Clone](https://github.com/alkezz/aA2022-Spotify-Clone)
+
+Created using a Python Back end with Flask and SQLAlchemy in combination with a React/Redux Front end!
+
+As a huge music nerd I thought the most obvious thing to recreate would be a website I use 24/7!
+
+It gives users the same functionality of Spotify (with more features to come!) such as playlist creation and adding and removing songs to those playlists, in tandem with an always running music player that can queue up songs with a click of a button!
