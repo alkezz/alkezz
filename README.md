@@ -34,6 +34,6 @@ Check out my Spotify Clone!
 
 Created using a Python Back end with Flask and SQLAlchemy in combination with a React/Redux Front end!
 
-As a huge music nerd I thought the most obvious thing to recreate would be a website I use 24/7!
+As a huge music nerd I thought the most obvious thing to do was recreate a website whose design is very sleek and one that I use 24/7, Spotify
 
-It gives users the same functionality of Spotify (with more features to come!) such as playlist creation and adding and removing songs to those playlists, in tandem with an always running music player that can queue up songs with a click of a button!
+It gives users the almost the same functionality of Spotify (with more features to come!) such as playlist creation and adding and removing songs to those playlists, in tandem with an always running music player that can queue up songs with a click of a button!
