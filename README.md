@@ -30,3 +30,9 @@ It gives users the almost the same functionality of Spotify (with more features 
 
 -----------------------------
 ### Reach out!
+
+[WellFound](https://angel.co/u/ali-ezzeddine-1)
+
+[LinkedIn](https://www.linkedin.com/in/ali-ezzeddine-17b2b6248/)
+
+Email: a.k.ezzeddin@gmail.com
