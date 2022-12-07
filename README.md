@@ -2,6 +2,8 @@
 
 Software Engineering and computers in general have always been a huge part of my life. Growing up, my cousins and I would pretty much game all night on your PC's and that carried on throughout my life. Even when we would visit our family in Lebanon we would find time to go to an internet cafe and game for hours. Naturally this led to branching out and eventually finding a passion in software development.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkezz&count_private=true)
+
 ## Languages/Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
