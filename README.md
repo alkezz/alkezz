@@ -1,6 +1,6 @@
 ## Hi I'm Ali Ezzeddine👋
 
-Software Engineering and computers in general have always been a huge part of my life. Growing up, my cousins and I would pretty much game all night on our PCs and that carried on throughout my life. Even when we would visit our family in Lebanon we would find time to go to an internet cafe and game for hours. Naturally this led to branching out and eventually finding a passion in software development.
+Computers have always been a huge part of my life, growing up, my cousins and I would pretty much game all night on our PCs playing MMOs and RPGs and that carried on throughout my life. Even when we would visit our family in Lebanon we would find time to go to an internet cafe and escape into a different reality for hours. Naturally this led to branching out and eventually finding a passion in building PCs and software development.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![download (2)](https://user-images.githubusercontent.com/105993056/213881201-d2f9a192-2c2e-415f-b9b6-c2637e954cb5.png)
 
