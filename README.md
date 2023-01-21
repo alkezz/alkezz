@@ -20,15 +20,13 @@ Software Engineering and computers in general have always been a huge part of my
 ![Anurag's GitHub stats](https://github-readme-stats-sage-seven.vercel.app/api?username=alkezz&count_private=true&show_icons=true&theme=midnight-purple)
 
 ----------------------------
-Check out my Spotify Clone!
+Check out Bopify!
 
 [Bopify-A Spotify Clone](https://github.com/alkezz/aA2022-Spotify-Clone)
 
 Created using a Python Back end with Flask and SQLAlchemy in combination with a React/Redux Front end!
 
-As a huge music nerd I thought the most obvious thing to do was recreate a website whose design is very sleek and one that I use 24/7, Spotify
-
-It gives users the almost the same functionality of Spotify (with more features to come!) such as playlist creation and adding and removing songs to those playlists, in tandem with an always running music player that can queue up songs with a click of a button!
+As a huge music nerd I thought the most obvious thing to do was recreating a website whose design is very sleek and one that I use 24/7, Spotify
 
 -----------------------------
 ### Reach out!
@@ -37,4 +35,4 @@ It gives users the almost the same functionality of Spotify (with more features 
 
 [LinkedIn](https://www.linkedin.com/in/ali-ezzeddine-17b2b6248/)
 
-Email: a.k.ezzeddin@gmail.com
+a.k.ezzeddine@gmail.com
