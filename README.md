@@ -17,7 +17,7 @@ Computers have always been a huge part of my life, growing up, my cousins and I 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ----------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats-sage-seven.vercel.app/api?username=alkezz&count_private=true&show_icons=true&theme=midnight-purple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkezz&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------------------------
 Check out Bopify!
