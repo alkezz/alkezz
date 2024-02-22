@@ -16,18 +16,14 @@ Computers have always been a huge part of my life, growing up, my cousins and I 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ----------------------------
-Check out Bopify!
+[Check out Bopify!](https://github.com/alkezz/aA2022-Spotify-Clone)
 
-[Bopify-A Spotify Clone](https://github.com/alkezz/aA2022-Spotify-Clone)
+Created using a Python back-end with Flask and SQLAlchemy in combination with a React/Redux front-end!
 
-Created using a Python Back end with Flask and SQLAlchemy in combination with a React/Redux Front end!
-
-As a huge music nerd I thought the most obvious thing to do was recreating a website whose design is very sleek and one that I use 24/7, Spotify
+As a huge music nerd I thought the most obvious thing to do was creating a music streaming app with features taken from popular and mainstream music streaming services!
 
 -----------------------------
 ### Reach out!
-
-[WellFound](https://angel.co/u/ali-ezzeddine-1)
 
 [LinkedIn](https://www.linkedin.com/in/ali-ezzeddine-17b2b6248/)
 
