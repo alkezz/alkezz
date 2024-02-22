@@ -25,6 +25,6 @@ As a huge music nerd I thought the most obvious thing to do was creating a music
 -----------------------------
 ### Reach out!
 
-[LinkedIn](https://www.linkedin.com/in/ali-ezzeddine-17b2b6248/)
+[LinkedIn](https://www.linkedin.com/in/ali-k-ezzeddine/)
 
 a.k.ezzeddine@gmail.com
