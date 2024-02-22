@@ -1,4 +1,4 @@
-## Hi I'm Ali Ezzeddine👋
+## Hi I'm Ali Ezzeddine :)
 
 Computers have always been a huge part of my life, growing up, my cousins and I would pretty much game all night on our PCs playing MMOs and RPGs and that carried on throughout my life. Even when we would visit our family in Lebanon we would find time to go to an internet cafe and escape into a different reality for hours. Naturally this led to branching out and eventually finding a passion in building PCs and software development.
 
